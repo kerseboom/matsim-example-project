@@ -44,6 +44,7 @@ You can build an executable jar-file by executing the following command:
 
 or on Windows:
 
+
 ```sh
 mvnw.cmd clean package
 ```
